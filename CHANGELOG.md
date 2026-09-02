@@ -1,3 +1,36 @@
+## [discovery-service 1.1.1](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.1) (2026-09-02)
+
+Welcome to the v1.1.1 release of discovery-service!
+
+
+
+Please try out the release binaries and report any issues at
+https://github.com/siderolabs/discovery-service/issues.
+
+### Contributors
+
+* Andrey Smirnov
+
+### Changes
+<details><summary>1 commit</summary>
+<p>
+
+* [`270f977`](https://github.com/siderolabs/discovery-service/commit/270f977dc5c4ee6aa4e84d611842782fec0b299c) feat: rekres and update dependencies
+</p>
+</details>
+
+### Dependency Changes
+
+* **github.com/grpc-ecosystem/go-grpc-middleware/v2**  v2.3.3 -> v2.3.4
+* **github.com/prometheus/client_golang**              v1.24.0 -> v1.24.1
+* **github.com/siderolabs/go-debug**                   v0.6.2 -> v0.6.3
+* **github.com/stretchr/testify**                      v1.11.1 -> v1.12.1
+* **golang.org/x/net**                                 v0.57.0 -> v0.58.0
+* **google.golang.org/grpc**                           v1.82.1 -> v1.83.2
+* **google.golang.org/protobuf**                       v1.36.11 -> v1.36.12
+
+Previous release can be found at [v1.1.0](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.0)
+
 ## [discovery-service 1.1.0](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.0) (2026-07-22)
 
 Welcome to the v1.1.0 release of discovery-service!
